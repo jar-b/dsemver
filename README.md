@@ -15,7 +15,7 @@ docker run jar-b/semver -i major 0.1.1
 
 ## Motivation
 
-Mimicing the [alpine/semver](https://hub.docker.com/r/alpine/semver) image (built on `node:alpine`), but in a scratch container with Go.
+Mimicing the version bumping logic from the [alpine/semver](https://hub.docker.com/r/alpine/semver) image (built on `node:alpine`), but in a scratch container with Go.
 
 ## References
 
